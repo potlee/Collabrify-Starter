@@ -1,0 +1,19 @@
+{
+  "name": "new_proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Brocfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "broccoli": "*",
+    "broccoli-coffee": "*",
+    "broccoli-static-compiler": "*",
+    "broccoli-merge-trees": "*",
+    "broccoli-browserify": "*",
+    "broccoli-sass": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
