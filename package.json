@@ -1,8 +1,8 @@
 {
-  "name": "new_proj",
+  "name": "Collabrify-Starter",
   "version": "1.0.0",
   "description": "",
-  "main": "Brocfile.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
